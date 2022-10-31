@@ -1,0 +1,11 @@
+{
+  "variableSets" : {
+    "default" : { }
+  },
+  "variableXpaths" : { },
+  "uidInXincludeCompntListFileName" : false,
+  "xincludeXpaths" : { },
+  "additionalFiles" : { },
+  "optionalComponentsInUse" : [ ],
+  "structured" : true
+}
